@@ -1,0 +1,6 @@
+- test on gradiant boosting 
+- test on ada boost 
+- combine them using voting classifier  (  won't be needed ) 
+- interpret the results ( by feature importance ) 
+- Interpret the most important ones with their relation to target variable 
+- See if there is any relation between them that is causing certain behaviour 
